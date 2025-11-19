@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\.gitigore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:.gitigore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\supplier..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:supplier..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\payment..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:payment..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|c:\\users\\medon\\onedrive\\documents\\csharp\\onlinestore\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D3CA74-C786-463F-9A36-F5E6722BA075}|OnlineStore.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitigore",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\.gitigore",
+              "RelativeDocumentMoniker": ".gitigore",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\.gitigore",
+              "RelativeToolTip": ".gitigore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-18T21:38:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-18T17:10:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Review.cs",
+              "RelativeDocumentMoniker": "Review.cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Review.cs",
+              "RelativeToolTip": "Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:06:24.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier..cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Supplier..cs",
+              "RelativeDocumentMoniker": "Supplier..cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Supplier..cs",
+              "RelativeToolTip": "Supplier..cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:04:16.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment..cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Payment..cs",
+              "RelativeDocumentMoniker": "Payment..cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Payment..cs",
+              "RelativeToolTip": "Payment..cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:03:18.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingCart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:02:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:01:35.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:51:15.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:56:35.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:55:36.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\medon\\OneDrive\\Documents\\csharp\\OnlineStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:45:16.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

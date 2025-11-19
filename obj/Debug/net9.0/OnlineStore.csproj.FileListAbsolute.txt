@@ -1,0 +1,14 @@
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\bin\Debug\net9.0\OnlineStore.exe
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\bin\Debug\net9.0\OnlineStore.deps.json
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\bin\Debug\net9.0\OnlineStore.runtimeconfig.json
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\bin\Debug\net9.0\OnlineStore.dll
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\bin\Debug\net9.0\OnlineStore.pdb
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\OnlineStore.AssemblyInfoInputs.cache
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\OnlineStore.AssemblyInfo.cs
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\OnlineStore.dll
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\refint\OnlineStore.dll
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\OnlineStore.pdb
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\OnlineStore.genruntimeconfig.cache
+C:\Users\medon\OneDrive\Documents\с#\OnlineStore\obj\Debug\net9.0\ref\OnlineStore.dll

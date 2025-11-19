@@ -1,0 +1,12 @@
+﻿Laptop
+Smartphone
+Tablet
+Headphones
+Mouse
+Keyboard
+Monitor
+Printer
+Camera
+Smartwatch
+Speaker
+Router
