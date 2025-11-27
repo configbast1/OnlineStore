@@ -8,7 +8,7 @@
 ✨ OnlineStore (C#)
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x200?text=OnlineStore" alt="Banner"/>
+  <img src="./assets/image-1.jpg" width="600" alt="OnlineStore Banner">
 </p>
 
 📌 Описание проекта
