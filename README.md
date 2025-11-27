@@ -101,11 +101,3 @@ http://localhost:5000
 Документация C#: https://learn.microsoft.com/dotnet/csharp
 
 Документация .NET: https://learn.microsoft.com/dotnet
-
-Нейросети для генерации картинок (для будущих баннеров):
-
-OpenAI
-
-Midjourney
-
-Stability AI
