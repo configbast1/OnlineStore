@@ -8,9 +8,11 @@
 ✨ OnlineStore (C#)
 
 <p align="center">
-  <img src="./assets/image-1.jpg" width="300" alt="OnlineStore Banner">
+  <img src="./assets/image-1.jpg" alt="OnlineStore Banner" width="600"
+       style="transition: transform 0.3s ease; cursor: pointer;"
+       onmouseover="this.style.transform='scale(1.1)';"
+       onmouseout="this.style.transform='scale(1)';">
 </p>
-
 📌 Описание проекта
 
 OnlineStore — учебный проект интернет-магазина, реализованный на языке C# и платформе .NET.
