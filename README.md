@@ -8,7 +8,7 @@
 ✨ OnlineStore (C#)
 
 <p align="center">
-  <img src="./assets/image-1.jpg" alt="OnlineStore Banner" width="250"
+  <img src="./assets/image-1.jpg" alt="OnlineStore Banner" width="350"
        style="transition: transform 0.3s ease; cursor: pointer;"
        onmouseover="this.style.transform='scale(1.1)';"
        onmouseout="this.style.transform='scale(1)';">
