@@ -8,7 +8,7 @@
 ✨ OnlineStore (C#)
 
 <p align="center">
-  <img src="./assets/image-1.jpg" width="600" alt="OnlineStore Banner">
+  <img src="./assets/image-1.jpg" width="300" alt="OnlineStore Banner">
 </p>
 
 📌 Описание проекта
