@@ -6,11 +6,6 @@
 
 
 ✨ OnlineStore (C#)
-<p align="center"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/shopping-cart.svg" width="200" alt="Store Logo"/> </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/store/store.png" width="300" alt="Store Icon"/>
-</p>
 
 <p align="center">
   <img src="https://via.placeholder.com/600x200?text=OnlineStore" alt="Banner"/>
