@@ -6,5 +6,4 @@
 
 
 ✨ OnlineStore (C#)
-
-<p align="center"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/ecommerce/ecommerce.png" width="600" alt="Online Store Banner"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/shopping-cart.svg" width="200" alt="Store Logo"/> </p>
